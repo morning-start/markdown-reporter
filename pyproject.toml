@@ -1,7 +1,7 @@
 [project]
 name = "markdown-reporter"
 version = "0.1.0"
-description = "Add your description here"
+description = "一个用于以编程方式生成 Markdown 文档的 Python 库"
 readme = "README.md"
 authors = [
     { name = "morning-start", email = "morning-start@foxmail.com" }
