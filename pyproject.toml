@@ -7,7 +7,9 @@ authors = [
     { name = "morning-start", email = "morning-start@foxmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "pandas>=2.0.0",
+]
 
 [build-system]
 requires = ["uv_build>=0.11.2,<0.12.0"]
