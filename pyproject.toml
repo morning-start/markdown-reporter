@@ -1,15 +1,11 @@
 [project]
 name = "markdown-reporter"
-version = "0.1.0"
+version = "1.0.0"
 description = "一个用于以编程方式生成 Markdown 文档的 Python 库"
 readme = "README.md"
-authors = [
-    { name = "morning-start", email = "morning-start@foxmail.com" }
-]
+authors = [{ name = "morning-start", email = "morning-start@foxmail.com" }]
 requires-python = ">=3.12"
-dependencies = [
-    "pandas>=2.0.0",
-]
+dependencies = ["pandas>=2.0.0"]
 
 [build-system]
 requires = ["uv_build>=0.11.2,<0.12.0"]
